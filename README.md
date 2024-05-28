@@ -1,1 +1,2 @@
-# Task-queuing-system
+# Task-queuing-system with redis
+# 
